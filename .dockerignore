@@ -1,0 +1,14 @@
+# ห้ามเอา Environment และ Cache เข้าไป
+.venv/
+__pycache__/
+*.pyc
+
+# ห้ามเอาข้อมูลและไฟล์ทดลองเข้าไปเด็ดขาด (ไฟล์พวกนี้หนักมาก)
+data/
+notebooks/
+*.ipynb
+
+# ไฟล์ระบบ
+.git/
+.env
+.gitignore

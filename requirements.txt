@@ -1,0 +1,17 @@
+# Data Manipulation & Visualization
+pandas
+numpy
+matplotlib
+seaborn
+
+# Machine Learning & Time Series
+scikit-learn
+xgboost
+lightgbm
+
+# Deployment (API)
+fastapi
+uvicorn
+
+# Development Tools
+ipykernel

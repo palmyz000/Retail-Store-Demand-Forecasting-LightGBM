@@ -1,0 +1,17 @@
+# ตัวจัดการ Environment (uv / venv)
+.venv/
+__pycache__/
+*.pyc
+
+# ชุดข้อมูล (ห้ามเอาขึ้น GitHub เด็ดขาด)
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# ไฟล์ระบบอื่นๆ
+.DS_Store
+.env
